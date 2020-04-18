@@ -1,3 +1,0 @@
-this is a new text for test
-this is the change line
-this line is writen by another_branch
